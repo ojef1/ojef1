@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente trabalhando como Freelancer Front-end
 - 🌱 Estudando Flutter Mobile
-- 💬 Contate-me o email: ojefdev@gmail.com
+- 💬 Contate-me no email: ojefdev@gmail.com
 
 ### Tecnologias com que já trabalhei
 <div style="display: inline_block"><br>
